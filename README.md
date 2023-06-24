@@ -3,4 +3,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #Live Demo Photo
-![Alt Text]()
+![Alt Text](https://github.com/kashyapprajapat/photos/blob/main/LaptopView.png)
